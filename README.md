@@ -18,10 +18,9 @@
 - CVSS: 0.1 – 0.2 range only (informational)
 
 ## 📸 Screenshot
-file:///C:/Users/adity/AppData/Local/Packages/5319275A.WhatsAppDesktop_cv1g1gvanyjgm/TempState/9FD81843AD7F202F26C1A174C7357585/WhatsApp%20Image%202025-09-25%20at%2019.32.50_5f044a22.jpg
 Included below is the screenshot of the scan result dashboard.
 
-![Scan Summary](./screenshots/scan-summary.png)
+![Scan Summary](.WhatsAppDesktop_cv1g1gvanyjgm/TempState/9FD81843AD7F202F26C1A174C7357585/WhatsApp%20Image%202025-09-25%20at%2019.32.50_5f044a22.jpg./screenshots/scan-summary.png)
 
 ## 🧾 Notes
 - All findings were informational, like OS detection, open ports, and banners.
