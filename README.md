@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/aa290372-7a05-45f5-b95f-3844b7162ec6" /># Task 3 - Basic Vulnerability Scan using OpenVAS
+ # Task 3 - Basic Vulnerability Scan using OpenVAS
 
 ## 🔧 Tool Used
 - Greenbone Vulnerability Manager (OpenVAS on Kali Linux)
