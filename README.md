@@ -1,4 +1,4 @@
- # Task 3 - Basic Vulnerability Scan using OpenVAS
+file:///C:/Users/adity/AppData/Local/Packages/5319275A.WhatsAppDesktop_cv1g1gvanyjgm/TempState/9FD81843AD7F202F26C1A174C7357585/WhatsApp%20Image%202025-09-25%20at%2019.32.50_5f044a22.jpg # Task 3 - Basic Vulnerability Scan using OpenVAS
 
 ## 🔧 Tool Used
 - Greenbone Vulnerability Manager (OpenVAS on Kali Linux)
